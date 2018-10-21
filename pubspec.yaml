@@ -2,7 +2,7 @@ name: flutter_aws_rest
 description: A new Flutter package as AWS Client
 version: 0.2.0
 author: Fahim Shariar <fahim.shoumik@gmail.com>
-homepage: http://shoumik.me
+homepage: https://github.com/restra-social/flutter-aws-rest
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
